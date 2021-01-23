@@ -1,4 +1,5 @@
-##  React-redux-table - test task for ITspecial
+##  React-redux-table 
+Made with React, redux, reactstrap, react-bootstrap-table2
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
